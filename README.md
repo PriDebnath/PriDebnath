@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PriDebnath .
+- 👋 Hi, I’m Pritam Debnath .
 - 👀 I’m interested in coding . 
 - 🌱 I’m currently learning web development .
 - 💞️ I’m looking to collaborate on ...
