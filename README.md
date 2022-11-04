@@ -7,6 +7,8 @@ https://pridebnath.github.io/portfolio/
 - LinkedIn - https://www.linkedin.com/in/pritam-debnath-762019239
 - Instagram - https://instagram.com/spoiler_0p
 
+- 2nd GitHub account - https://github.com/PritamOfHSVMPL
+
 <!---
 PriDebnath/PriDebnath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
