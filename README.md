@@ -8,7 +8,7 @@ https://pridebnath.github.io/portfolio/
 - Instagram - https://instagram.com/spoiler_0p
 
 
-
+Each project's hosted link available in their README.md 
 <!---
 PriDebnath/PriDebnath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
