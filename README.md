@@ -2,7 +2,7 @@
 
 ### Hi there 👋🏻, I'm Pritam. Nice to meet you!
 
-:speech_balloon: A passionate frontend developer with a minimum knowledge at the backend from Kolkata, India . However, I'm learning to be a full-stack developer.
+:speech_balloon: A passionate frontend developer skill in React and Angular with a minimum knowledge at the backend from Kolkata, India . However, I'm learning to be a full-stack developer.
 
 
 - Reach me through  :- 
