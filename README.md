@@ -8,7 +8,7 @@
 - Reach me through  :- 
 
 - LinkedIn - https://www.linkedin.com/in/pritam-debnath-762019239
-- Instagram - https://instagram.com/spoiler_0p
+- Instagram - https://instagram.com/_pri_debnath
 - portfolio - https://pridebnath.github.io/portfolio
 
 
