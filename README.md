@@ -9,7 +9,7 @@
 
 - LinkedIn - https://www.linkedin.com/in/pritam-debnath-762019239
 - Instagram - https://instagram.com/_pri_debnath
-- portfolio - https://pridebnath.github.io/portfolio
+- Portfolio - https://pridebnath.github.io/portfolio
 - Pinterest -
 https://in.pinterest.com/PriDebnath/
 
