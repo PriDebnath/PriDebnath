@@ -15,6 +15,12 @@
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pridebnath" alt="pridebnath" /></a> </p>
   -->
 <!-- github trophy end-->
+
+  <!-- Most Used Languages start  -->
+ <div style="display: block">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pridebnath&show_icons=true&locale=en&layout=compact" alt="pridebnath" /></p>
+  </div>
+  <!-- Most Used Languages end  -->
   <!-- social media start-->
   <h3 align="left">Reach me through:</h3><p align="left">
  <a href="https://pridebnath.github.io/portfolio" target="_blank">
@@ -24,11 +30,6 @@
 </a><a href="https://www.linkedin.com/in/pritam-debnath-762019239" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWjiYZ8L202MJ_vK9A-QBlOvd1hA2wsWzASQ&usqp=CAU" alt="https://instagram.com/_pri_debnat" height="30" width="30" /></a><a href="https://in.pinterest.com/PriDebnath/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaLv206AEKhZHsb0zAg4Myf_YGyGi3AW6yxQ&usqp=CAU" alt="https://instagram.com/_pri_debnat" height="30" width="30" /></a>
   </p>
   <!-- social media end-->
-  <!-- Most Used Languages start  -->
- <div style="display: block">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pridebnath&show_icons=true&locale=en&layout=compact" alt="pridebnath" /></p>
-  </div>
-  <!-- Most Used Languages end  -->
   <!--  Languages start-->
   <div><h3 align="left">Languages :</h3><p align="left"><!-- HTML5 --><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a><!-- CSS3 --><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a><!-- JavaScript --><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a><!-- TypeScript --><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a><!-- Python --><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
  </a></p>
