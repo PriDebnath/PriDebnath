@@ -19,6 +19,8 @@
  <a href="https://linkedin.com/in/pritam-debnath-762019239" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="pritamdebnath" height="30" width="40" /></a>
  <!--Instagram-->
  <a href="https://instagram.com/_pri_debnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="_pri_debnath" height="30" width="40" /></a>
+  <a href="https://youtube.com/@spoiler3537" target="blank"><img align="center"  src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="_pri_debnath" height="30" width="40" /></a>
+
  <!--whatsapp-->
  <!--
  <a href="https://api.whatsapp.com/send?phone=91" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="+91" height="30" width="40" /></a>
@@ -32,7 +34,7 @@
  <a href="https://discordapp.com/users/760854840027906068" target="blank"><img align="center" src="https://www.svgrepo.com/show/331368/discord-v2.svg" alt="pritam" height="30" width="40" /></a>
 ->
 <!--pinterest-->
-<a href="https://in.pinterest.com/PriDebnath/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaLv206AEKhZHsb0zAg4Myf_YGyGi3AW6yxQ&usqp=CAU" alt="https://instagram.com/_pri_debnat" height="30" width="30" /></a>
+<a href="https://in.pinterest.com/PriDebnath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Pinterest.svg" alt="https://instagram.com/_pri_debnat" height="30" width="30" /></a>
   </p>
   <br>
   <!-- social media end-->
@@ -48,7 +50,7 @@
  <p style="width: 100%">&nbsp;<img align="center" style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=pridebnath&show_icons=true&locale=en&theme=onedark" alt="pridebnath" /></p>
  <br>
 <!-- streak -->
-<p style="width: 100%"><img style="width: 100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritam-go-plus&theme=onedark" alt="pridebnath" /></p>
+<p style="width: 100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritam-go-plus&theme=onedark" alt="pridebnath" /></p>
   <br>
 <!-- github trophy start-->
 <!--
