@@ -1,11 +1,17 @@
 <!-- banner-->
 <div style="width: 100%"><img style="width: 100%" src="https://raw.githubusercontent.com/PriDebnath/PriDebnath/main/banner.jpg" alt=""></div>
 <br>
-<h4 align="center">
-💬 A passionate frontend developer skill in React and Angular with a minimum knowledge at the backend from Kolkata, India . However, I'm learning to become a full-stack developer.
-</h4>
-
-  ###### *Each project's hosted link available in their README.md
+  <h3 align="left"> 👋 Hi, I'm Pritam Debnath from west bengal, India</h3>
+<br>
+<li>🧑‍💻  A Passionate frontend developer</li> 
+<br>
+  <li>✨ Creating  🐛bugs since  2019 </li> 
+<br>
+<li>📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" >  and django 🦄
+</li> 
+<br>
+<li>Get project's hosted link in README.md files</li> 
+<br>
   <br>
   <!-- social media start-->
   <h3 align="left"> 🔗 Reach me through :</h3>
@@ -16,11 +22,15 @@
 </a><!--Gmail-->
 <a href="mailto:debnathpritam0802@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="debnathpritam0802@gmail.com" height="30" width="40" /></a>
 <!--linkedin-->
- <a href="https://linkedin.com/in/pritam-debnath-762019239" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="pritamdebnath" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/pritam-debnath-762019239" target="_blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="pritamdebnath" height="30" width="40" /></a>
  <!--Instagram-->
- <a href="https://instagram.com/_pri_debnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="_pri_debnath" height="30" width="40" /></a>
-  <a href="https://youtube.com/@spoiler3537" target="blank"><img align="center"  src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="_pri_debnath" height="30" width="40" /></a>
-
+ <a href="https://instagram.com/_pri_debnath" target="_blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="_pri_debnath" height="30" width="40" /></a>
+  <a href="https://youtube.com/@spoiler3537" target="_blank">
+    <img align="center"  src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="_pri_debnath" height="30" width="40" />
+    </a>
+    <a href="https://youtube.com/@learningtocode5049?si=10ebfAfBeCmL8Aqn" target="_blank">
+    <img align="center"  src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="_pri_debnath" height="30" width="40" />
+  </a>
  <!--whatsapp-->
  <!--
  <a href="https://api.whatsapp.com/send?phone=91" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="+91" height="30" width="40" /></a>
@@ -41,16 +51,20 @@
   <h3 align="left"> 📈 Github Stats :</h3>
   <!-- Most Used Languages start  -->
   <div style="display: block">
-  <p style="width: 100%"><img style="width: 100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pridebnath&show_icons=true&locale=en&layout=compact&theme=onedark" alt="pridebnath" /></p>
+  <p style="width: 100%"><img style="width: 100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pridebnath&show_icons=true&locale=en&layout=compact&theme=githubdark" alt="pridebnath" /></p>
   </div>
   <!-- Most Used Languages end  -->
   <br>
   <div style="height: 1rem"></div>
   <!-- stats -->
- <p style="width: 100%">&nbsp;<img align="center" style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=pridebnath&show_icons=true&locale=en&theme=onedark" alt="pridebnath" /></p>
+ <p style="width: 100%">&nbsp;<img align="center" style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=pridebnath&show_icons=true&locale=en&theme=githubdark" alt="pridebnath" /></p>
  <br>
 <!-- streak -->
-<p style="width: 100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritam-go-plus&theme=onedark" alt="pridebnath" /></p>
+<p style="width: 100%"><img style="width: 100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritam-go-plus&theme=githubdark" alt="pridebnath" /></p>
+  <br>
+  <p style="width: 100%">
+  <img  style="width: 100%" src="https://raw.githubusercontent.com/pritam-go-plus/pritam-go-plus/81be38b4a4e0388fc77bd85864243ca647bbcd50/github-contribution-grid-snake.svg"/>
+  </p>
   <br>
 <!-- github trophy start-->
 <!--
