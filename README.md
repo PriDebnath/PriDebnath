@@ -1,5 +1,5 @@
   <!-- Banner-->
-  <div style="width: 100%"><img style="width: 100%;border-radius: 4.5px;" src="https://raw.githubusercontent.com/PriDebnath/PriDebnath/main/banner.jpg" alt="pri debnath banner" loading="lazy" ></div>
+  <div style="width: 100%"><img style="width: 100%;border-radius: 4.5px;" src="https://raw.githubusercontent.com/PriDebnath/PriDebnath/main/images/banner.jpg" alt="pri debnath banner" loading="lazy" ></div>
   <!-- Typing -->
     <p align="center" style="overflow: hidden">
     <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
