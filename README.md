@@ -10,6 +10,9 @@
   <!--
   <h3 align="left" style="color:#38b6ff;font-family: Arial, sans-serif;"> 👋 Hi, I'm Pritam Debnath from west bengal, India</h3>
   -->
+  <p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/PriDebnath/count.svg" /></p>
   <ul style="">
   <br>
   <li>A Passionate frontend developer  🧑‍💻 </li>
