@@ -59,7 +59,10 @@
 <!--pinterest-->
     <a href="https://in.pinterest.com/PriDebnath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Pinterest.svg" alt="https://instagram.com/pri._.debnath" height="30" width="30" /></a>
 <!--Github -->
-<a href="https://github.com/PriDebnath" target="_blank"><img align="center"src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Github.svg" alt="pri debnath" height="30" width="40"/></a></p>
+<a href="https://github.com/PriDebnath" target="_blank"><img align="center"src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Github.svg" alt="pri debnath" height="30" width="40"/></a>
+  <!-- Medium -->
+<a href="https://medium.com/@pritam-debnath" target="_blank"><img align="center"src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Medium.svg" alt="pri debnath" height="30" width="40"/></a>
+  </p>
   <br>
   <!-- social media end-->
   <h3 align="left" style=""> 📈 Github Stats :</h3>
