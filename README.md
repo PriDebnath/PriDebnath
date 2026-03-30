@@ -4,25 +4,22 @@
     <p align="center" style="overflow: hidden">
     <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.demolab.com/?lines=Pritam%20Debnath;Frontend%20web%20developer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=380&height=20&color=38b6ff&vCenter=true&pause=10&size=20" /></a>
+      <img src="https://readme-typing-svg.demolab.com/?lines=Pritam%20Debnath;Frontend%20web%20developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=380&height=20&color=38b6ff&vCenter=true&pause=10&size=20" /></a>
   </p>
   <!-- Heading -->
   <!--
   <h3 align="left" style="color:#38b6ff;font-family: Arial, sans-serif;"> 👋 Hi, I'm Pritam Debnath from west bengal, India</h3>
-  -->
+  --><!--
   <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/PriDebnath/count.svg" /></p>
+  <img src="https://profile-counter.glitch.me/PriDebnath/count.svg" /></p>-->
   <ul style="">
   <br>
   <li>A Passionate frontend developer  🧑‍💻 </li>
   <br>
   <li>Creating✨   bugs🐛 since 2019 </li>
   <br>
-  <li>I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17"> and django 🦄
-  </li>
-  <br>
-  <li>Get project's hosted link in README.md files</li>
+  <li>Get project's live link in README.md files</li>
   <br></ul>
   <br>
   <!-- social media start-->
@@ -74,9 +71,11 @@
   <br>
   <div style="height: 1rem"></div>
   <!-- stats -->
+  <!--
   <p style="width: 100%">&nbsp;
     <img align="center" style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=pridebnath&show_icons=true&locale=en&bg_color=000325&title_color=gold&border_color=ffd2ce&icon_color=e4626b&layout=compact" alt="pridebnath" />
   </p>
+  -->
   <br>
     <!-- streak -->
     <p style="width: 100%"><img style="width: 100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritam-go-plus&theme=github-dark-blue&border=ffd2ce&fire=e4626b&background=100%2C000325%2Ce4626b" alt="pridebnath" /></p>
