@@ -35,8 +35,8 @@
     <a href="https://linkedin.com/in/pritam-debnath-762019239" target="_blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="pritamdebnath" height="30" width="40" /></a>
     <!--Instagram-->
     <a href="https://instagram.com/pri._.debnath" target="_blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="pri._.debnath" height="30" width="40" /></a>
-    <a href="https://youtube.com/@spoiler3537" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="pri debnath" height="30" width="40" />
+    <a href="https://youtube.com/@spoiler_op" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="https://youtube.com/@spoiler_op" height="30" width="40" />
     </a>
     <a href="https://youtube.com/@learningtocode5049?si=10ebfAfBeCmL8Aqn" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="pri debnath" height="30" width="40" />
