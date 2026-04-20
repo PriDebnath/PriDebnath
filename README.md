@@ -24,43 +24,24 @@
   <br>
   <!-- social media start-->
   <h3 align="left" style=""> 🔗 Reach me through :</h3>
-  <p align="left" style="">
-    <!--portfolio-->
-    <a href="https://pridebnath.github.io/portfolio" target="_blank">
-      <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvFihaWqPbgnHSU9OGfwnjoFR8P0rX1cffqg&usqp=CAU" height="30" width="30" />
-    </a>
-    <!--Gmail-->
-    <a href="mailto:debnathpritam0802@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="debnathpritam0802@gmail.com" height="30" width="40" /></a>
-    <!--linkedin-->
-    <a href="https://linkedin.com/in/pritam-debnath-762019239" target="_blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="pritamdebnath" height="30" width="40" /></a>
-    <!--Instagram-->
-    <a href="https://instagram.com/pri._.debnath" target="_blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="pri._.debnath" height="30" width="40" /></a>
-    <a href="https://youtube.com/@spoiler_op" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="https://youtube.com/@spoiler_op" height="30" width="40" />
-    </a>
-    <a href="https://youtube.com/@learningtocode5049?si=10ebfAfBeCmL8Aqn" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="pri debnath" height="30" width="40" />
-    </a>
-    <!--whatsapp-->
-    <!--
- <a href="https://api.whatsapp.com/send?phone=91" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="+91" height="30" width="40" /></a>
- -->
-    <!--spotify-->
-    <!--
-<a href="https://open.spotify.com/user/313yqeaqaxr7syyrw37botpboary?si=78f4de6aa08747b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Spotify.svg" alt="pritam" height="30" width="40" /></a>
-  -->
-    <!--discord-->
-    <!--
- <a href="https://discordapp.com/users/760854840027906068" target="blank"><img align="center" src="https://www.svgrepo.com/show/331368/discord-v2.svg" alt="pritam" height="30" width="40" /></a>
-->
-<!--pinterest-->
-    <a href="https://in.pinterest.com/PriDebnath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Pinterest.svg" alt="https://instagram.com/pri._.debnath" height="30" width="30" /></a>
-<!--Github -->
-<a href="https://github.com/PriDebnath" target="_blank"><img align="center"src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Github.svg" alt="pri debnath" height="30" width="40"/></a>
-  <!-- Medium -->
-<a href="https://medium.com/@pritam-debnath" target="_blank"><img align="center"src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Medium.svg" alt="pri debnath" height="30" width="40"/></a>
-  </p>
-  <br>
+  <p align="left">
+<a href="https://pridebnath.github.io/portfolio" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvFihaWqPbgnHSU9OGfwnjoFR8P0rX1cffqg&usqp=CAU" height="25"/></a>&nbsp;
+<a href="mailto:debnathpritam0802@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" height="25"/></a>&nbsp;
+<a href="https://linkedin.com/in/pritam-debnath-762019239" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" height="25"/></a>&nbsp;
+<a href="https://instagram.com/pri._.debnath" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" height="25"/></a>&nbsp;
+<a href="https://youtube.com/@spoiler_op" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" height="25"/></a>&nbsp;
+<a href="https://youtube.com/@learningtocode5049?si=10ebfAfBeCmL8Aqn" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" height="25"/></a>&nbsp;
+<a href="https://discordapp.com/users/pridebnath" target="_blank"><img src="https://www.svgrepo.com/show/331368/discord-v2.svg" height="25"/></a>&nbsp;
+<a href="https://in.pinterest.com/PriDebnath/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Pinterest.svg" height="25"/></a>&nbsp;
+<a href="https://github.com/PriDebnath" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Github.svg" height="25"/></a>&nbsp;
+<a href="https://medium.com/@pritam-debnath" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Medium.svg" height="25"/></a>
+<!--whatsapp-->
+<!-- <a href="https://api.whatsapp.com/send?phone=91" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" height="25"/></a>&nbsp; -->
+
+<!--spotify-->
+<!-- <a href="https://open.spotify.com/user/313yqeaqaxr7syyrw37botpboary?si=78f4de6aa08747b9" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Spotify.svg" height="25"/></a>&nbsp; -->
+
+</p>
   <!-- social media end-->
   <h3 align="left" style=""> 📈 Github Stats :</h3>
   <!-- Most Used Languages start  -->
