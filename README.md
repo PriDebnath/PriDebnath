@@ -15,7 +15,7 @@
   <img src="https://profile-counter.glitch.me/PriDebnath/count.svg" /></p>-->
   <ul style="">
   <br>
-  <li>A Passionate frontend developer  🧑‍💻 </li>
+  <!--<li>A Passionate frontend developer  🧑‍💻 </li>-->
   <br>
   <li>Creating✨   bugs🐛 since 2019 </li>
   <br>
