@@ -14,9 +14,9 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/PriDebnath/count.svg" /></p>-->
   <ul style="">
-  <br>
-  <!--<li>A Passionate frontend developer  🧑‍💻 </li>-->
-  <br>
+  <!--<br>
+  <li>A Passionate frontend developer  🧑‍💻 </li>
+  <br>-->
   <li>Creating✨   bugs🐛 since 2019 </li>
   <br>
   <li>Get project's live link in README.md files</li>
